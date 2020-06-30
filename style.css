@@ -73,11 +73,13 @@ h2{
     border-radius: 5px;
     height: 80%;
     background-color: white;
+    overflow: scroll;
 }
 .experience-area{
     background-image: url("images/exp-bg.png") ;
     background-repeat: no-repeat;
-    background-position:0 80% ;
+    background-position:0 50% ;
+    
 
 }
 
@@ -85,11 +87,13 @@ h2{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,lightsalmon,tomato);
     border-image-slice: 1;
+    
 }
 #baby-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
+
 
 }
 
